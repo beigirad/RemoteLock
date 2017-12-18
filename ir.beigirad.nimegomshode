@@ -1,5 +1,5 @@
 {
-	"enabled":true,
+	"enabled":false,
 	"message":"hello users",
 	"url_contact":"https://t.me/beigirad"
 }
