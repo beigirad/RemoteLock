@@ -1,5 +1,6 @@
 {
 	"enabled":false,
-	"message":"نیمه‌گمشده بفنا رفت\nبا برنامه نویسش تماس بگیرید\n",
+	"message":"نیمه‌گمشده بفنا رفت\nبا برنامه نویسش تماس بگیر\n",
+	"message_title":"پیام فری"
 	"url_contact":"https://t.me/beigirad"
 }
